@@ -1,5 +1,4 @@
 # Real Estate Consulting Project
-Authors: Anshan Arnott-Tan, Jenny Mai, Vivian To, Zirui Rao
 
 ## Project Overview
 This project focuses on analyzing real estate data to provide insights and recommendations for property rentals. The analysis includes data scraping, preprocessing, exploratory data analysis (EDA), and visualization. The project also integrates external datasets to enhance the analysis.
